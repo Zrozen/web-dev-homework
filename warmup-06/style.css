@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(40, 0, 113);
+  }
+  
+  h1 {
+    color: rgb( 255, 205, 0);
+    text-align: center;
+    font-family: Futura;
+    font-weight: bold;
+  }
+  h2 {
+    color: rgb( 255, 205, 0);
+    text-align: center;
+    font-family: Futura;
+    font-weight: bold;
+  }
+  p {
+    font-family: Futura;
+    font-size: 20px;
+    color: rgb( 255, 205, 0);
+    text-align: center;
+    font-weight: bold;
+  }
+  a {
+    font-family: Futura;
+    font-size: 10px;
+    color: rgb( 255, 205, 0);
+    text-align: left;
+    font-weight: bold;
+  }
+ .opos{
+  background-color:rgb( 255, 205, 0);
+   font-weight: bold;
+    font-family: Futura; 
+    color:rgb(40, 0, 113);
+     padding: 10px;
+ }
