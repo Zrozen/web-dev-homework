@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(113, 121, 126);
+  }
+  
+
+.parent-container {
+    width: 200px;
+    height: 100px;
+    background-color: #1CCDCA;
+    border: 2px solid #442820; 
+    position: absolute;
+    right: 0;
+}
+.chi-container {
+    width: 200px;
+    height: 100px;
+    background-color: #1CCDCA;
+    border: 2px solid #442820; 
+    position: absolute;
+    right: 900px;
+}
+.chie-container {
+    width: 350px;
+    height: 50px;
+    background-color: #1CCDCA;
+    border: 2px solid #442820; 
+    position: absolute;
+    left: 0;
+}
+.bottom-container {
+    width: 350px;
+    height: 50px;
+    background-color: #1CCDCA;
+    border: 2px solid #442820; 
+    position: absolute;
+    bottom: 0px;
+    right: 800px;;
+}
+.main-container {
+    width: 500px;
+    height: 400px;
+    background-color: #1CCDCA;
+    border: 2px solid #442820; 
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    width: 50%;
+}
+
+  h1 {
+    color: rgb(54, 69, 79);
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    padding: 10px;
+ 
+    
+  }
+
+  p {
+    font-family:'Open Sans', sans-serif;
+    font-size: 20px;
+    color: rgb(54, 69, 79);
+    text-align: left;
+    padding: 10px;
+  }
+  a {
+    font-family: 'Montserrat', 'Futura';
+    font-size: 20px;
+    color: rgb(54, 69, 79);
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+  }
+ .opos{
+  background-color:rgb(129, 133, 137);
+     padding: 10px;
+ }
+ .button:hover {
+    color: rgb(137, 148, 153);
+    font-style: italic;
+}
